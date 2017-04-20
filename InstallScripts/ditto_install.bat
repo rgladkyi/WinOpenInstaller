@@ -6,6 +6,6 @@ set DL_FILE_PATH=%DL_FOLDER_PR1%\Ditto.zip
 
 echo %DL_FILE_PATH%
 
-call C:\CMDEX\WinOpenInstaller\InstallScripts\download_and_unzip.bat "https://rgladkyi.github.io/WinOpenInstaller/raw/master/Tools/Ditto.zip" %DL_FOLDER% %DL_FILE_PATH%
+call C:\CMDEX\WinOpenInstaller\InstallScripts\download_and_unzip.bat "https://github.com/rgladkyi/WinOpenInstaller/raw/master/Tools/Ditto.zip" %DL_FOLDER% %DL_FILE_PATH%
 
 
