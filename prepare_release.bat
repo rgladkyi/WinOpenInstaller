@@ -1,4 +1,4 @@
 @echo off
 
-call C:\CMDEX\WinOpenInstaller\Installer\create_installer.bat
+call %CMDEX_ROOT_DIR%\WinOpenInstaller\Installer\create_installer.bat
 
